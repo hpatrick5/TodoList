@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Hannah\.android\build-cache\d56379d6cc4e88ac8f1918475ae501d19e7b5e54\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Hannah\.android\build-cache\33615801c7865dc3b3bff51906f80bafd7018aa0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Hannah\.android\build-cache\f746b09d40d7aa25d8a3a4a1f820e8ca9a01a3d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Hannah\.android\build-cache\395de2230b8d658060913b4edf411f5776362b82\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Hannah\.android\build-cache\61b4ff5b719669186e60fb477a46823db017870f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Hannah\.android\build-cache\16ee30ecd3b65c8414a6dc673e0a98f9983fccc0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Hannah\.android\build-cache\c5baa4be2cf65d234ea57b6b54b7accc331ba021\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Hannah\.android\build-cache\cf8da0dc1da9d3422d22f62fd6328b88be87df2c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hannah\.android\build-cache\845d1b14e2bb3e01d43f9ca6f7b576b13ea43d8b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.patrick_848481.todolist.MainActivity
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.patrick_848481.todolist.reminder
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:18:19-43
+receiver#com.example.patrick_848481.todolist.MyRecieve
+ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml:19:19-44
+uses-sdk
+INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Hannah\.android\build-cache\d56379d6cc4e88ac8f1918475ae501d19e7b5e54\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Hannah\.android\build-cache\33615801c7865dc3b3bff51906f80bafd7018aa0\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Hannah\.android\build-cache\f746b09d40d7aa25d8a3a4a1f820e8ca9a01a3d6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Hannah\.android\build-cache\395de2230b8d658060913b4edf411f5776362b82\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Hannah\.android\build-cache\61b4ff5b719669186e60fb477a46823db017870f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Hannah\.android\build-cache\16ee30ecd3b65c8414a6dc673e0a98f9983fccc0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Hannah\.android\build-cache\c5baa4be2cf65d234ea57b6b54b7accc331ba021\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Hannah\.android\build-cache\cf8da0dc1da9d3422d22f62fd6328b88be87df2c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hannah\.android\build-cache\845d1b14e2bb3e01d43f9ca6f7b576b13ea43d8b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\Hannah\.android\build-cache\d56379d6cc4e88ac8f1918475ae501d19e7b5e54\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\Hannah\.android\build-cache\33615801c7865dc3b3bff51906f80bafd7018aa0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\Hannah\.android\build-cache\f746b09d40d7aa25d8a3a4a1f820e8ca9a01a3d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\Hannah\.android\build-cache\395de2230b8d658060913b4edf411f5776362b82\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\Hannah\.android\build-cache\61b4ff5b719669186e60fb477a46823db017870f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\Hannah\.android\build-cache\16ee30ecd3b65c8414a6dc673e0a98f9983fccc0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\Hannah\.android\build-cache\c5baa4be2cf65d234ea57b6b54b7accc331ba021\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\Hannah\.android\build-cache\cf8da0dc1da9d3422d22f62fd6328b88be87df2c\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\AndroidManifest.xml:26:9-47

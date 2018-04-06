@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="hintTxtItem">Enter an item here…</string>
+    <string name="lblBtnAdd">Add Item</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="open">Open</string>
+    <string name="save_list">Save List</string>
+    <string name="title">Title</string>
+    <string name="LIST_FILENAME">L_sharedPreferences</string>
+    <string name="ok">Ok</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="save">Save</string>
+</resources>

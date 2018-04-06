@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\patrick_848481\\Desktop\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\patrick_848481\\.android\\build-cache\\4680cf8692f3b68b68d2a1728974d876b1760d50\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hannah\\Desktop\\School\\MAD Projects\\TodoList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Hannah\\.android\\build-cache\\9cbfb1f89c2484cd70f810786da65de1375b93d6\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

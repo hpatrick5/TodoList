@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\c5baa4be2cf65d234ea57b6b54b7accc331ba021\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_4ea4f7dc2746f2b8ac7be73e0cc136f0089fde6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\d56379d6cc4e88ac8f1918475ae501d19e7b5e54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_51f007911c62f766747d98de052c0a433ecfd65a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_55fb5ac5927b00db4235cebefec6d4ecfbe750eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\16ee30ecd3b65c8414a6dc673e0a98f9983fccc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_6d29b40f5b7e7b84cf85303ce6aae682d7818f50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\33615801c7865dc3b3bff51906f80bafd7018aa0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_fbae2e35cf8e25679a909c6a35ad30ea347c4388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\cf8da0dc1da9d3422d22f62fd6328b88be87df2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_ed58c26ea96537a1573fa2e0deb98650d0606aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\395de2230b8d658060913b4edf411f5776362b82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_b427053cfe319a86518ce679aa46756ef3e108ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\845d1b14e2bb3e01d43f9ca6f7b576b13ea43d8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_67e3109565939801151556f29c41f6a3b8617382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\f746b09d40d7aa25d8a3a4a1f820e8ca9a01a3d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_41ce79415ebd72a02e3ddd55d4c9f17d6e7a2201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\9cbfb1f89c2484cd70f810786da65de1375b93d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_9be856b0673459a787663f1c2d6491969a3d6a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_65a4ff29dfa63ff98752f3408cfb5874a0bdf9fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hannah\.android\build-cache\61b4ff5b719669186e60fb477a46823db017870f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Hannah\Desktop\School\MAD Projects\TodoList\app\build\intermediates\pre-dexed\debug\classes_be4e10c41cf90ca0c77cc67621862d1cb95fe54b.jar" />
+    </item>
+
+</items>
